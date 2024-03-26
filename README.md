@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Desmath3
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Application of Machine Learning to Algorithmic trading
-- 💞️ I’m looking to collaborate on Algo projects
-- 📫 How to reach me: aghughudesmath@gmail.com
-
-<!---
-Desmath3/Desmath3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pairs trading strategy is a mean-reverting trading strategy that involves matching a long position with a short position in two stocks with similar historical price patterns, betting that prices will converge to their historical trends. In this paper, we apply clustering techniques to find cointegrated trading cryptocurrency pairs and use supervised learning techniques to identify when the spread has become abnormally large and is likely to converge back to its mean. We present and compare the performance metrics of different machine learning models, assessing their effectiveness based on returns, volatility, Sharpe Ratio, and various performance indicators.
